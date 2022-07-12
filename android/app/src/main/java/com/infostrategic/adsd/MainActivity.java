@@ -1,4 +1,4 @@
-package com.adsdmobile;
+package com.infostrategic.adsd;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

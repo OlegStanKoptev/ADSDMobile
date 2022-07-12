@@ -1,4 +1,4 @@
-package com.adsdmobile.newarchitecture;
+package com.infostrategic.adsd.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.adsdmobile.BuildConfig;
-import com.adsdmobile.newarchitecture.components.MainComponentsRegistry;
-import com.adsdmobile.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.infostrategic.adsd.BuildConfig;
+import com.infostrategic.adsd.newarchitecture.components.MainComponentsRegistry;
+import com.infostrategic.adsd.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

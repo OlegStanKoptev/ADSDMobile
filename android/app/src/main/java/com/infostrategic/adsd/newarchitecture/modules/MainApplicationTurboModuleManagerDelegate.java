@@ -1,4 +1,4 @@
-package com.adsdmobile.newarchitecture.modules;
+package com.infostrategic.adsd.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
